@@ -7,8 +7,6 @@ import org.bukkit.event.entity.EntityDamageEvent;
 import org.bukkit.potion.PotionEffect;
 import org.bukkit.potion.PotionEffectType;
 
-import java.util.Random;
-
 public class LevitatePlayer implements Listener {
     @EventHandler
     public void onPlayerTakeDamage(EntityDamageEvent entityDamageEvent) {
