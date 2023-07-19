@@ -1,0 +1,4 @@
+name: BullShit
+version: '${version}'
+main: com.nullshii.bullshit.BullShit
+api-version: '1.20'
